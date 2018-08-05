@@ -1,6 +1,6 @@
 # React Countries Input
 
-> A React Component for to select countries calling code with flag inspired on restcountries.eu api and [emotion](https://emotion.sh/) to style.
+> A React Component for to select countries calling code with flag inspired on [restcountries.eu](restcountries.eu) api and [emotion](https://emotion.sh/) to style.
 
 ## Getting Started
 
