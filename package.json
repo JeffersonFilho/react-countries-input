@@ -1,0 +1,43 @@
+{
+  "name": "react-countries-input",
+  "version": "0.0.1",
+  "description": "React Countries Input",
+  "main": "build/index.js",
+  "repository": "https://github.com/JeffersonFilho/react-countries-input",
+  "author": "Jefferson Filho",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "files": [
+    "build"
+  ],
+  "keywords": [
+    "countries",
+    "country",
+    "code",
+    "phone-code",
+    "calling-code",
+    "reactjs",
+    "emotion",
+    "restcountries.eu",
+    "react-component",
+    "react-countries-input"
+  ],
+  "dependencies": {
+    "emotion": "^9.2.6",
+    "react": "^16.2.0",
+    "webpack": "^3.10.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "prop-types": "^15.6.0"
+  }
+}
