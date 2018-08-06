@@ -10,6 +10,11 @@ or
 npm install react-countries-input --save
 ```
 
+## Demo
+
+[![Demo](https://i.gyazo.com/0a2974e4a7fb55fe750e58a1e0f71f21.gif)](https://gyazo.com/0a2974e4a7fb55fe750e58a1e0f71f21)
+[![Demo2](https://i.gyazo.com/1316a60b2137dcd450ad5b85b523742a.gif)](https://gyazo.com/1316a60b2137dcd450ad5b85b523742a)
+
 ## How to use
 
 ### Basic
