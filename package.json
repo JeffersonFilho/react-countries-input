@@ -1,6 +1,6 @@
 {
   "name": "react-countries-input",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React Countries Input",
   "main": "build/index.js",
   "repository": "https://github.com/JeffersonFilho/react-countries-input",

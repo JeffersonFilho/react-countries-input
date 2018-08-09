@@ -53,7 +53,7 @@ Since this package is using [emotion](https://emotion.sh/) you can style like yo
 
 ```js
 import React from 'react'
-import ReactCountriesInput from 'react-linkedin-sdk'
+import ReactCountriesInput from 'react-countries-input'
 
 class MyComponent extends React.Component {
   onChange = value => {
